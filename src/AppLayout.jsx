@@ -28,7 +28,7 @@ function AppLayout() {
         <MemeCards />
         </div> */}
         <div>
-          {/* <RoadMap/> */}
+          <RoadMap/>
         </div>
         {/* <div>
           <Partner />
