@@ -45,7 +45,7 @@ function Hero() {
             className="my-2 font-groot-one flex justify-center text-xs  text-white  border-[#000000] sm:text-lg font-semibold border-2  rounded-2xl bg-[#029586cf] max-w-xl py-1 mx-auto"
           >
             {" "}
-            Contract : soon....
+            Contract : 9NwPQr4Ji5mJGXAPka11JMKgob9DwDedBXeZMzKwarB6
           </a>
         </div>
 
