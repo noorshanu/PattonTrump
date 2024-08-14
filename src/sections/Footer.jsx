@@ -18,10 +18,10 @@ const Footer = () => {
              
             </div>
             <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-              <a target="_blank" href="https://twitter.com/Patton Trump_solana">
+              <a target="_blank" href="https://t.me/PattonTrump_sol">
                 <FaTwitter fill="#fff" />
               </a>
-              <a target="_blank" href="https://t.me/Patton Trump_solana">
+              <a target="_blank" href="https://t.me/PattonTrump_sol">
                 <FaTelegram fill="#fff" />
               </a>
             </div>
